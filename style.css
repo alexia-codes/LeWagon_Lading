@@ -1,0 +1,58 @@
+body {
+  background: #FCFCFC;
+  color: #46237A;
+  font-size: 18px;
+  font-family: 'Source Serif Pro', serif;
+  text-align: center;
+}
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #256EFF;
+  font-weight: bold;
+  font-size: 48px;
+}
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #FF495C;
+  font-weight: bolder;
+  font-size: 24px;
+}
+a {
+  color: #3DDC97;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+a:hover {
+  text-decoration: none;
+  color: #256EFF;
+  font-weight: bolder;
+  font-size: 24px;
+}
+#banner {
+  text-align: center;
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  padding: 70px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner p {
+  color: #256EFF;
+  font-weight: bold;
+}
+.card {
+  padding: 50px;
+  font-weight: lighter;
+}
+#footer {
+  padding: 30px;
+  background: #46237A;
+  color: #3DDC97;
+  font-weight: bolder;
+}
+#footer a {
+  color: #3DDC97;
+  font-size: 36px;
+}
+#footer a:hover {
+	color: #256EFF;
+}
